@@ -1,16 +1,23 @@
-### Hi there 👋
+###Oi, eu sou o Ricardo 👍
 
-<!--
-**Rkzimba/Rkzimba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Cursando Superior em Análise e desenvolvimento de Sistemas na ULBRA.
 
-Here are some ideas to get you started:
+🚀 Estou em busca de novas oportunidades no ramo da tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Desenhista profissional, criativo e inovador.
+
+✅ Estou sempre buscando melhorias, sou comunicativo e aprendo rápido.
+
+Email: rk.draw2020@gmail.com
+
+Contato: 51 98065-6183
+
+Localização: rua Leopoldino João da Rosa, 94 - Torres (RS)
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rkzimba)
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-ricardo-camargo-teixeira-608518222/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rk.drawzzz/)                 
+
+[![Instagram](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/)
