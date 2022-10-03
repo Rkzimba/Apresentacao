@@ -1,4 +1,4 @@
-###Oi, eu sou o Ricardo 👍
+Oi, eu sou o Ricardo 👍
 
 📚 Cursando Superior em Análise e desenvolvimento de Sistemas na ULBRA.
 
